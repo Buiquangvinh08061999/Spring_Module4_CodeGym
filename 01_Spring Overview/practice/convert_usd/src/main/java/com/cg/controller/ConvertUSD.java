@@ -9,15 +9,22 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class ConvertUSD {
 
     @GetMapping("/convert")
+    public String convert(@RequestParam double usd, double vnd ,Model model){
 
-    public String convert(@RequestParam double usd, Model model){
-
-        double vnd = usd * 23000;
+        double VND = usd * 23000;
+        double USD = vnd / 23000;
 
         model.addAttribute("usd", usd);
         model.addAttribute("vnd", vnd);
 
+        model.addAttribute("USD", USD);
+        model.addAttribute("VND", VND);
+
         return "result";
 
     }
+
+
+
+
 }

@@ -14,13 +14,18 @@
 
   <form action="/convert">
     <fieldset>
-         <legend> Convert USD</legend> <br>
+         <legend> Convert USD </legend> <br>
 
-         <label>USD</label>
-         <input type="number" name="usd" required>
+        <label>USD</label>
+        <input type="number" name="usd" required>
+        <br><br>
+        <label>VNĐ</label>
+        <input type="number" name="vnd" required>
         
         <button type="submit">Submit</button>
+
     </fieldset>
+
   </form>
 
   </body>
