@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   Created by IntelliJ IDEA.
   User: ADMIN
@@ -7,10 +8,13 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
+<head>
+    <title>Result</title>
+</head>
+<body>
+        <h1>Kết quả là từ tìm kiếm là</h1>
+              Result : ${res}
+
+
+</body>
 </html>
