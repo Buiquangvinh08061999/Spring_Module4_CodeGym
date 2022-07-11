@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="106f9f39-e4da-4155-91ce-6db668827abd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/spring-mvc-banking-transaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/model/BaseEntities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/model/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/model/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/model/Withdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/repository/DepositRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/repository/WithdrawRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/customer/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/deposit/DepositService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/deposit/DepositServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/withdraw/WithdrawService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/java/com/codegym/service/withdraw/WithdrawServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/WEB-INF/views/customer/deposit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/WEB-INF/views/customer/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/WEB-INF/views/customer/withdraw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/baking/src/main/webapp/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/service/impl/HibernateICustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleICustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/resources/hibernate.conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/webapp/WEB-INF/templates/customers/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../05_CSDL ORM/practice/customer-managerment/src/main/webapp/WEB-INF/templates/customers/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/Text/out/production/Text/com/codegym/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build/classes/java/main/com/cg/controller/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build/classes/java/main/com/cg/controller/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build/libs/Spring Greeting-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build/libs/Spring Greeting-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/KhaiBaoBienURI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/KhaiBaoBienURI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/RequestParam1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/java/com/cg/controller/RequestParam1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/webapp/WEB-INF/views/indexText.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/Spring Greeting/src/main/webapp/WEB-INF/views/indexText.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/TextSpring/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/TextSpring/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_Spring Overview/practice/convert_usd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_Spring Overview/practice/convert_usd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_Spring Controller/practice/customer-management/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_Spring Controller/practice/customer-management/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02_Spring Controller/practice/customer-management/src/main/webapp/WEB-INF/templates/customers/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_Spring Controller/practice/customer-management/src/main/webapp/WEB-INF/templates/customers/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/excercise/product_managerment/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/excercise/product_managerment/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/excercise/product_managerment/src/main/java/com/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/excercise/product_managerment/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/CauHinhThymeleaf/src/main/java/com/codegym/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/CauHinhThymeleaf/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/CauHinhThymeleaf/src/main/java/com/codegym/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/CauHinhThymeleaf/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/build/classes/java/main/com/codegym/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/build/classes/java/main/com/codegym/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/build/libs/customer_managerment-thymleaf-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/build/libs/customer_managerment-thymleaf-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/java/com/codegym/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/java/com/codegym/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/java/com/codegym/service/ICustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/java/com/codegym/service/ICustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../03_Views$amp Thymeleaf/practice/customer_managerment-thymleaf/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2BmDWRoI0uDl5wGsiqiKKyqZuoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="106f9f39-e4da-4155-91ce-6db668827abd" name="Changes" comment="" />
+      <created>1657502399334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657502399334</updated>
+      <workItem from="1657502401951" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
