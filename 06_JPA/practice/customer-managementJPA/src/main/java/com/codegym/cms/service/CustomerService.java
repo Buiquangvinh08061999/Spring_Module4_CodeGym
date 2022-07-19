@@ -1,0 +1,34 @@
+package com.codegym.cms.service;
+
+import com.codegym.cms.model.Customer;
+import com.codegym.cms.repository.ICustomerRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import java.util.List;
+
+public class CustomerService implements ICustomerService{
+
+    /*Tạo cơ chế tiêm repository vào service để lấy đc các giá trị từ tầng repository */
+    @Autowired
+    private ICustomerRepository customerRepository;
+
+    @Override
+    public List<Customer> findAll() {
+        return customerRepository.findAll();
+    }
+
+    @Override
+    public Customer findById(Long id) {
+        return customerRepository.findById(id);
+    }
+
+    @Override
+    public void save(Customer customer) {
+        customerRepository.save(customer);
+    }
+
+    @Override
+    public void remove(Long id) {
+        customerRepository.remove(id);
+    }
+}
